@@ -1,2 +1,2 @@
-# UrbanSimulation
-Final Assessment for CASA0002 Urban Simulation
+# Urban Simulation - Final Project
+A network analysis of the London Underground
