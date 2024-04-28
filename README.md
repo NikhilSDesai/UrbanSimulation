@@ -1,4 +1,4 @@
-# Urban Simulation - Network Analysis of the London Underground
+# Urban Simulation: A Network Analysis of the London Underground
 
 #### This is an analysis of the resilience of London’s Underground. This analysis will be conducted in three parts:
 
