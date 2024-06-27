@@ -5,3 +5,7 @@
 - First I have only taken the topological network into consideration
 - Secondly, I consider commuter flows and discuss the impact of the analysis on the number of people moving from one part of the city to another
 - Finally, I will recompute commuter flows using spatial interaction models and discuss the vulnerability of the network
+
+![London Underground]([https://github.com/your-username/your-repository/blob/main/images/screenshot1.png](https://github.com/NikhilSDesai/UrbanSimulation/blob/main/UrbSim.png))
+
+
